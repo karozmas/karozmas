@@ -3,6 +3,9 @@
 - 🌱 I’m currently learning CS...
 - 💞️ I’m looking to collaborate on cyber security...
 - 📫 How to reach me? ...
+- Linkdln www.linkedin.com/in/abdulelah-al-balawi-96294a284
+
+
 
 <!---
 karozmas/karozmas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
