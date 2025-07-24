@@ -1,9 +1,9 @@
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0047,100:6F00FF&height=300&section=header&text=عبدالإله&desc=Tech%20Explorer%20|%20Cybersecurity%20Enthusiast&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=30&descAlignY=50" width="100%" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0047,100:6F00FF&height=300&section=header&text=Abdulelah&desc=Tech%20Explorer%20|%20Cybersecurity%20Enthusiast&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=30&descAlignY=50" width="100%" alt="Header" />
 </div>
 
-<!-- Galaxy Background Effect -->
+<!-- Galaxy Animation -->
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjM3ZDk2OWNlNDFkMzI1ZTg3MzM4NjQ3MjQzYzM1ZjM5ZDRkYTk0ZiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/0TtX2qqpxp3pIafzio/giphy.gif" width="100" />
 </div>
@@ -22,8 +22,8 @@
 <br>
 
 <h2 align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGE3MzM0ZDM0ZDJmMzEzMzYxNDQzZjI0ZDY5ZjEzYTJlMDRkYzg2YiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/3ohhwNqFMnb7wBgN5e/giphy.gif" width="30"> 
-  <span style="color:#9D4EDD">عني</span>
+  <img src="https://media.giphy.com/media/3ohhwNqFMnb7wBgN5e/giphy.gif" width="30"> 
+  <span style="color:#9D4EDD">About Me</span>
 </h2>
 
 <table border="0" align="center">
@@ -51,8 +51,8 @@
 <br>
 
 <h2 align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzA0YzFjMzM0ZDM0ZDJmMzEzMzYxNDQzZjI0ZDY5ZjEzYTJlMDRkYyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"> 
-  <span style="color:#9D4EDD">مهاراتي التقنية</span>
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"> 
+  <span style="color:#9D4EDD">Technical Skills</span>
 </h2>
 
 <div align="center">
@@ -104,16 +104,24 @@
   </table>
 </div>
 
-<!-- Cosmic Divider -->
+<!-- Space-themed separator -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Cosmic Divider">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
 
-<br>
+<!-- Animated space scene -->
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzk1YzI0YzM1ZjM5ZDRkYTk0ZjYzN2Q5NjljZTQxZDMyNWU4NzMzOCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/l3vRmVv5P01I5NDAA/giphy.gif" width="500">
+</div>
+
+<!-- Space-themed separator -->
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
 
 <h2 align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTQ0YzFjMzM0ZDM0ZDJmMzEzMzYxNDQzZjI0ZDY5ZjEzYTJlMDRkYyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/W5eoZHPpUx9sapR0eu/giphy.gif" width="30"> 
-  <span style="color:#9D4EDD">إحصائياتي</span>
+  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30"> 
+  <span style="color:#9D4EDD">GitHub Stats</span>
 </h2>
 
 <div align="center">
@@ -141,8 +149,8 @@
 <br>
 
 <h2 align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDRjMWMzMzRkMzRkMmYzMTMzNjE0NDNmMjRkNjlmMTNhMmUwNGRjYyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/hpXdHPfFI5wTABdDx9/giphy.gif" width="30"> 
-  <span style="color:#9D4EDD">مشاريعي</span>
+  <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="30"> 
+  <span style="color:#9D4EDD">My Projects</span>
 </h2>
 
 <div align="center">
@@ -154,16 +162,24 @@
   </a>
 </div>
 
-<!-- Cosmic Divider -->
+<!-- Space-themed separator -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Cosmic Divider">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
 
-<br>
+<!-- Animated planet -->
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzk1YzI0YzM1ZjM5ZDRkYTk0ZjYzN2Q5NjljZTQxZDMyNWU4NzMzOCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/LOnt6uZizyr7AIZiP1/giphy.gif" width="200">
+</div>
+
+<!-- Space-themed separator -->
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
 
 <h2 align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTRjMWMzMzRkMzRkMmYzMTMzNjE0NDNmMjRkNjlmMTNhMmUwNGRjYyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/jdPMeyv9rn0hZHh8n9/giphy.gif" width="30"> 
-  <span style="color:#9D4EDD">تواصل معي</span>
+  <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="30"> 
+  <span style="color:#9D4EDD">Connect With Me</span>
 </h2>
 
 <div align="center">
@@ -189,7 +205,7 @@
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/YOUR_USERNAME/count.svg" alt="Visitor Count" />
-  <p style="font-family: 'Orbitron', sans-serif;">شكراً لزيارتك! 🚀</p>
+  <p style="font-family: 'Orbitron', sans-serif;">Thanks for visiting! 🚀</p>
 </div>
 
 <!-- Footer -->
