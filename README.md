@@ -125,14 +125,14 @@
 </h2>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&no-bg=true&column=7" width="100%" alt="Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=karozmas&theme=radical&no-frame=true&no-bg=true&column=7" width="100%" alt="Trophy" />
 </div>
 
 <br>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&bg_color=0D1117&hide_border=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&background=0D1117&hide_border=true" alt="GitHub Streak" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=karozmas&show_icons=true&theme=radical&bg_color=0D1117&hide_border=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=karozmas&theme=radical&background=0D1117&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <br>
@@ -154,7 +154,7 @@
 </h2>
 
 <div align="center">
-  <a href="https://github.com/YOUR_USERNAME/project1">
+  <a href="https://github.com/karozmas/Sahub2">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=project1&theme=radical&bg_color=0D1117&hide_border=true" alt="Project 1" />
   </a>
   <a href="https://github.com/YOUR_USERNAME/project2">
