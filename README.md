@@ -29,7 +29,7 @@
 <table border="0" align="center">
   <tr>
     <td width="50%">
-      <img src="https://64.media.tumblr.com/tumblr_m1mfj6gCO51qjvsoxo1_500.gifv" width="100%" alt="Space">
+      <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXhlcW1mdWg0eHdiMjRnY3hhemE1d2Rpem92em5wMjlkcWd4a3N1eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/0CGxgsIchcrengUbgg/giphy.gif" width="100%" alt="Space">
     </td>
     <td width="50%">
       <div align="center">
@@ -169,7 +169,7 @@
 
 <!-- Animated planet -->
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzk1YzI0YzM1ZjM5ZDRkYTk0ZjYzN2Q5NjljZTQxZDMyNWU4NzMzOCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/LOnt6uZizyr7AIZiP1/giphy.gif" width="200">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3RydDJqZTlhZ2syajdtYzltOTJtZjNmc3Vza2E0YmowcHNneXA4cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/M8hg7XkDtpPHtZqWaK/giphy.gif" width="200">
 </div>
 
 <!-- Space-themed separator -->
