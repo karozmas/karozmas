@@ -138,7 +138,7 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=karozmas&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" width="100%" alt="Activity Graph" />
 </div>
 
 <!-- Cosmic Divider -->
@@ -155,7 +155,7 @@
 
 <div align="center">
   <a href="https://github.com/karozmas/Sahub2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=project1&theme=radical&bg_color=0D1117&hide_border=true" alt="Project 1" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=karozmas&repo=project1&theme=radical&bg_color=0D1117&hide_border=true" alt="Project 1" />
   </a>
   <a href="https://github.com/YOUR_USERNAME/project2">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=project2&theme=radical&bg_color=0D1117&hide_border=true" alt="Project 2" />
@@ -204,7 +204,7 @@
 <br>
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/YOUR_USERNAME/count.svg" alt="Visitor Count" />
+  <img src="https://profile-counter.glitch.me/karoznas/count.svg" alt="Visitor Count" />
   <p style="font-family: 'Orbitron', sans-serif;">Thanks for visiting! 🚀</p>
 </div>
 
